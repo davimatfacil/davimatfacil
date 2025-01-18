@@ -3,5 +3,5 @@
 
 Sou formado em matemática com mestrado em matemática aplicada!!
 
-- 🔭 Atualmente estou trabalhando em um projeto de readmissão em uma clínica!
+- 🔭 Atualmente estou trabalhando em um projeto de previsão de altas médicas!
 
